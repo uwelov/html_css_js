@@ -1,0 +1,26 @@
+.menu{
+    border: 2px solid;
+    width: 200px;
+    height: 400px;
+    margin-top: 25px;
+}
+.name{
+    border: 2px solid;
+    width: 200px;
+    height: 100px;
+}
+.content{
+    width: 210px;
+    height: 530px;
+    padding: 30px;
+}
+.info {
+    width: 700px;
+    height: 530px;
+    border: 2px solid;
+    margin-top: 3%;
+}
+body{
+    display: inline-flex;
+    
+}

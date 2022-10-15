@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+}
+.line{
+    display: flex;
+    width: 700px;
+    height: 160px;
+    
+}
+.element{
+    width: 100px;
+    height: 140px;
+    margin: auto;
+    margin-top: 1px;
+    background-size: 100px;
+    margin-left: 1px;
+}
+.go_work{
+    margin-left: 47%;
+    margin-top: 1px;
+}
+.rnd_card{
+    width: 100px;
+    height: 140px;
+    margin-left: 47%;
+    margin-top: 1px;
+    background-size: 100px;
+}

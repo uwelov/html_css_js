@@ -1,0 +1,4 @@
+let test = new Array(10);
+test [0] = 25;
+test [1] = "name";
+test [2] = "age";

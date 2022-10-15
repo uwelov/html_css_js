@@ -1,0 +1,25 @@
+@keyframes anim{
+ from{background-color: #ff9e9e;}
+    10%{background-color: #ffe59e;}
+    20%{background-color: #c0ff9e;}
+    30%{background-color: #9effa2;}
+    40%{background-color: #9effe5;}
+    50%{background-color: #9ea5ff;}
+    60%{background-color: #d69eff;}
+    70%{background-color: #ff9ecf;}
+    80%{background-color: #a29eff;}
+    90%{background-color: #c0ff9e;}
+    to{background-color: #9ea9ff;}   
+}
+@keyframes moving{
+    from{width: 500px; height; 200px;}
+    25%{width: 100px; height: 100px;}
+    50%{width: 200px; height: 50px;}
+    75%{width: 300px; height: 150px;}
+    to{width: 0px; height: 0px;}
+}
+body{
+    animation: anim_1 12s infinite ease-in-out;
+    animation: moving 5s infinite ease-in-out;
+}
+

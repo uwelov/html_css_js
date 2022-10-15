@@ -1,0 +1,24 @@
+@keyframes anim_1{
+    from{background-color:#ff9e9e;}
+    10%{background-color:#ffe59e;}
+    20%{background-color:#c0ff9e;}
+    30%{background-color:#9effa2;}
+    40%{background-color:#9effe5;}
+    50%{background-color:#9ea5ff;}
+    60%{background-color:#d69eff;}
+    70%{background-color:#ff9ecf;}
+    80%{background-color:#a29eff;}
+    90%{background-color:#c0ff9e;}
+    to{background-color:#9ea9ff;}
+}
+body{
+    animation: anim_1 10s infinite ease-in-out;
+}
+@keyframes test{
+    from{ border-radius: 100%; margin-top: 250px;}
+    50%{ border-radius: 50%; width: 50px;}
+    to{ border-radius: 0%; width: 0px}
+}
+.rad{
+    animation: test 2s infinite ease-in-out alternate-reverse;
+}

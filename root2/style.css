@@ -1,0 +1,9 @@
+body{
+    text-align: center
+}
+.block_ans{
+    height: 300px;
+}
+.ans1, .ans2, .ans3, .ans4{
+    margin: 0px 100px 0px 100px;
+}

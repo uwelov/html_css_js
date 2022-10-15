@@ -1,0 +1,16 @@
+.headline{
+    text-align: center;
+}
+img{
+
+    width:850px;
+    margin-left: 20%;
+}
+h6{
+    text-align: center;
+    background-color: darkgrey
+}
+p{
+    font-size: 20px;
+    text-align: left;
+}

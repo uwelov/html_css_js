@@ -1,0 +1,31 @@
+body{
+    margin: 0px;
+}
+.box_body{
+    width: 600px;
+    height: 600px;
+    background-color: green;
+    border-radius: 80px;
+    margin: auto;
+}
+.line{
+    width: 600px;
+    height: 200px;
+    display: flex;
+}
+
+.box{
+    width: 200px;
+    height: 200px;
+}
+.left_top, .center_top, .right_top, .center, .left_bottom, .center_bottom, .right_bottom{
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    margin: auto;
+    margin-top: 50px;
+}
+.go_work{
+    margin-left: 47%;
+    margin-top: 20px;
+}

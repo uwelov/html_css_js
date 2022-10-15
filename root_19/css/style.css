@@ -1,0 +1,41 @@
+.main {
+    width: 300px;
+    height: 25px;
+    border: 2px solid;
+    display: flex;	
+    justify-content: center;
+    margin: auto;
+}
+.login{
+    width: 300px;
+    height: 200px;
+    border: 2px solid;
+    margin: auto;
+}
+span{
+    margin: auto;
+    display: flex;	
+    justify-content: center;
+}
+input{
+    margin: auto;
+    display: flex;	
+    justify-content: center;
+}
+button{
+    margin: auto;
+    display: flex;	
+    justify-content: center;
+}
+.create{
+    width: 300px;
+    height: 500px;
+    border: 2px solid;
+    margin: auto;
+}
+.rad{
+    width: 50px;
+    height: 50px;
+    border: 2px solid;
+    background-color: aqua;
+}

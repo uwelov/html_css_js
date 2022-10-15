@@ -1,0 +1,177 @@
+body{
+    margin: 0;
+}
+@keyframes anim_1{
+    from{background-color:#ff9e9e;}
+    10%{background-color:#ffe59e;}
+    20%{background-color:#c0ff9e;}
+    30%{background-color:#9effa2;}
+    40%{background-color:#9effe5;}
+    50%{background-color:#9ea5ff;}
+    60%{background-color:#d69eff;}
+    70%{background-color:#ff9ecf;}
+    80%{background-color:#a29eff;}
+    90%{background-color:#c0ff9e;}
+    to{background-color:#9ea9ff;}
+}
+body{
+    animation: anim_1 10s infinite ease-in-out;
+}
+.year{
+    font-size: 50px;
+    font-family: PT Serif Caption;
+    margin-left: 550px;
+}
+.last_year{
+    font-size: 50px;
+    font-family: PT Serif Caption;
+    margin-left: 60px;
+    margin-top: 115px;
+}
+.next_year{
+    font-size: 50px;
+    font-family: PT Serif Caption;
+    margin-left: 60px;
+    margin-top: 115px;
+}
+.months{
+    margin-top: 30px;
+    margin-left: 100px;
+    border: 3px solid;
+    height: 1575px;
+    width: 1002px;
+}
+.month{
+    font-size: 20px;
+    font-family: PT Serif Caption;
+     margin-left: 80px;
+}
+.week{
+    width: 308px;
+    height: 40px;
+}
+.day{
+    display: inline-flex;
+    width: 28px;
+    height: 20px;
+}
+.winter{
+   margin-top: 15px;
+    width: 1000px;
+    height: 300px;
+    display: inline-flex;
+}
+.empty_2020{
+    margin-left: 10px;
+    border: 3px solid;
+    height: 290px;
+    width: 220px;
+}
+.january{
+    margin-left: 163px;
+    border: 3px solid;
+    height: 290px;
+    width: 220px;
+}
+.february{
+     margin-left: 100px;
+    border: 3px solid;
+    height: 290px;
+    width: 220px;
+}
+.spring{
+    margin-top: 15px;
+    width: 1000px;
+    height: 300px;
+    display: inline-flex;
+}
+.march{
+    margin-left: 10px;
+    border: 3px solid;
+    height: 290px;
+    width: 220px;
+}
+.april{
+    margin-left: 163px;
+    border: 3px solid;
+    height: 290px;
+    width: 220px;
+}
+.may{
+    margin-left: 100px;
+    border: 3px solid;
+    height: 290px;
+    width: 220px;
+}
+.summer{
+    margin-top: 15px;
+    width: 1000px;
+    height: 300px;
+    display: inline-flex;
+}
+.june{
+    margin-left: 10px;
+    border: 3px solid;
+    height: 290px;
+    width: 220px;
+}
+.jule{
+    margin-left: 163px;
+    border: 3px solid;
+    height: 290px;
+    width: 220px;
+}
+.august{
+    margin-left: 100px;
+    border: 3px solid;
+    height: 290px;
+    width: 220px;
+}
+.autumn{
+    margin-top: 15px;
+    width: 1000px;
+    height: 300px;
+    display: inline-flex;
+}
+.september{
+    margin-left: 10px;
+    border: 3px solid;
+    height: 290px;
+    width: 220px;
+}
+.october{
+    margin-left: 163px;
+    border: 3px solid;
+    height: 290px;
+    width: 220px;
+}
+.november{
+    margin-left: 100px;
+    border: 3px solid;
+    height: 290px;
+    width: 220px;
+}
+.winter1{
+    margin-top: 15px;
+    width: 1000px;
+    height: 300px;
+    display: inline-flex;
+}
+.december{
+    margin-left: 10px;
+    border: 3px solid;
+    height: 290px;
+    width: 220px; 
+}
+.empty_2022{
+    margin-left: 163px;
+    border: 3px solid;
+    height: 290px;
+    width: 220px;
+}
+.empty_2022_1{
+    margin-left: 100px;
+    border: 3px solid;
+    height: 290px;
+    width: 220px;
+}
